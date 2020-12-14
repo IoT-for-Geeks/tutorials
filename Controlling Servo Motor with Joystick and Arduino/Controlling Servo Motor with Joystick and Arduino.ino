@@ -1,5 +1,4 @@
-//For more Refer IoTforGeeks.com
-
+//For more Refer https://IoTforGeeks.com/a-guide-to-control-servo-motor-with-joystick-and-arduino-with-program
 #include <Servo.h>
 Servo MyServo1;
 Servo MyServo2;
